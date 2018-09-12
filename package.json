@@ -1,0 +1,19 @@
+{
+  "name": "golang-for-js",
+  "version": "1.0.0",
+  "description": "Series of examples introducing Golang to Javascript developers.",
+  "main": "index.js",
+  "scripts": {
+    "babel": "babel-node",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "babel-cli": "^6.26.0",
+    "express": "^4.16.3"
+  },
+  "devDependencies": {
+    "babel-preset-env": "^1.7.0"
+  }
+}
